@@ -28,5 +28,5 @@ This project implements a 4-way Traffic Light Controller with Pedestrian Zebra C
 | 11    | N-S yellow (lane 1)                 | `yellow(1)=1`                               |              | Short  |
 
 ## Output
-- RTL Schematic:
-- Waveform Output:
+- RTL Schematic: https://github.com/ananyav-26/Traffic-Light-Controller/blob/main/images/traffic_rtl.png
+- Waveform Output: https://github.com/ananyav-26/Traffic-Light-Controller/blob/main/images/traffic_waveform.png
